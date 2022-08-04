@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "declarationMap": true,
+    "isolatedModules": true,
+    "target": "ES5",
+    "module": "CommonJS",
+    "lib": ["ES2021"],
+    "strict": true,
+    "moduleResolution": "node",
+    "downlevelIteration": true,
+    "importHelpers": true,
+    "esModuleInterop": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitOverride": true,
+    "noImplicitReturns": true,
+    "noUncheckedIndexedAccess": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true
+  }
+}
