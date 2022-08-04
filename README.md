@@ -11,10 +11,10 @@ npm install --D typesafe-routes
 
 ## Usage
 
-- Typifies work with routes, gives the necessary type for the route
-- You can quickly rename this or that section if you use `withAddParts`
-- Allows you not to forget the named parameters, will work out the TS error when creating
-- Allows you to specify the query parameters that should be used on the page
+- Typifies gives necessary type for a route
+- You can quickly rename any section with `withAddParts`
+- Allows you not to forget named parameters, will work out the TS error when creating
+- Allows you to specify query parameters that should be used on a page
 
 ```tsx
 import { route, param } from '@pulse/typesafe-router';
